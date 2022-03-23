@@ -6,10 +6,20 @@
 
 <div align="center">
   🏛 한국외국어대학교
+<div>
+<div align="center">
   ✏ 산업경영공학과
+<div>
+<div align="center">
   💻 컴퓨터전자시스템공학부
+<div>
+<div align="center">
   🦁 멋쟁이사자처럼 10기
+<div>
+<div align="center">
   📊 2021 데이터 청년 캠퍼스 딥러닝 기반 자연어처리 과정 수료
+<div>
+<div align="center">
   🐻두산 베어스
 </div>
 
