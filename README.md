@@ -1,4 +1,6 @@
-### Hi there 👋
+## 안녕하세요! 박다빈입니다 :-)
+
+### 산업경영공학과 컴퓨터전자시스템공학을 전공하고 있습니다.
 
 <!--
 **dabin3178/dabin3178** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
