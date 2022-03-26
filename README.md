@@ -13,7 +13,7 @@ have learned
 `Java` `Python` `C` `MySQL` `머신러닝` `딥러닝` `NLP`
 
 want to learn  
-`백엔드` `Django` `협업`  `"데이터"를 기술적으로 다루는 모든 분야`
+`백엔드` `Django` `협업`  `데이터를 기술적으로 다루는 모든 분야`
 
 
 
