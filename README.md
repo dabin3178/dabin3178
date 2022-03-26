@@ -9,7 +9,11 @@
 🦁 멋쟁이사자처럼 10기  
 📊 2021 데이터 청년 캠퍼스 딥러닝 기반 자연어처리 과정 수료
 
+have learned  
 `Java` `Python` `C` `MySQL` `머신러닝` `딥러닝` `NLP`
+
+want to learn  
+`백엔드` `Django` `협업`
 
 
 
